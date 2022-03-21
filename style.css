@@ -1,0 +1,21 @@
+body{
+	background-image: url(img.jpg.jpg);
+}
+
+.container{
+	padding: 20px;
+	text-align: center;
+}
+
+.container .teks{
+	font-size: 35px;
+	color: white;
+	text-shadow: 5px 5px 5px gold;
+}
+
+.container .isi{
+	font-size: 30px;
+	color: white;
+	left: 200px;
+	right: 200px;
+}
